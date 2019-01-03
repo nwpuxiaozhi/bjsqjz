@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SQJZ.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>488C250776073908CA1F34A6DE20D2BFCFE399F7</string>
+				<key>dateExpires</key>
+				<string>2020/9/17</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4FZEH78SM7.com.sqjz.app</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4FZEH78SM7</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>4FZEH78SM7.com.sqjz.app</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>SQJZ.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ff89bc34-0f33-4531-a32a-d4ce36356f58</string>
+				<key>name</key>
+				<string>com sqjz app</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4FZEH78SM7</string>
+				<key>name</key>
+				<string>Smartdot Technologies Co.,LTD.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

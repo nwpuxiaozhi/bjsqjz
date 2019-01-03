@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>variants</key>
+	<dict>
+		<key>Apps/SQJZ-iPad (4th generation)-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>6404681</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>6404681</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>11543246</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>11543246</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad3,2</string>
+				<string>iPad3,3</string>
+				<string>iPad3,1</string>
+				<string>iPad3,6</string>
+				<string>iPad3,4</string>
+				<string>iPad3,5</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad (3rd generation)</string>
+				<string>iPad (3rd generation)</string>
+				<string>iPad (3rd generation)</string>
+				<string>iPad (4th generation)</string>
+				<string>iPad (4th generation)</string>
+				<string>iPad (4th generation)</string>
+			</array>
+		</dict>
+		<key>Apps/SQJZ-iPad 2-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>6404679</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>6404679</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>11543277</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>11543277</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad2,3</string>
+				<string>iPad2,2</string>
+				<string>iPad2,1</string>
+				<string>iPad2,4</string>
+				<string>iPad2,7</string>
+				<string>iPad2,6</string>
+				<string>iPad2,5</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad 2</string>
+				<string>iPad 2</string>
+				<string>iPad 2</string>
+				<string>iPad 2</string>
+				<string>iPad mini</string>
+				<string>iPad mini</string>
+				<string>iPad mini</string>
+			</array>
+		</dict>
+		<key>Apps/SQJZ-iPad Air 2-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>6171105</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>6171105</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>12217475</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>12217475</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad6,11</string>
+				<string>iPad6,12</string>
+				<string>iPad7,6</string>
+				<string>iPad7,5</string>
+				<string>iPad4,1</string>
+				<string>iPad4,3</string>
+				<string>iPad4,2</string>
+				<string>iPad5,3</string>
+				<string>iPad5,4</string>
+				<string>iPad6,8</string>
+				<string>iPad6,7</string>
+				<string>iPad4,6</string>
+				<string>iPad4,5</string>
+				<string>iPad4,4</string>
+				<string>iPad4,9</string>
+				<string>iPad4,8</string>
+				<string>iPad4,7</string>
+				<string>iPad5,2</string>
+				<string>iPad5,1</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad (5th generation)</string>
+				<string>iPad (5th generation)</string>
+				<string>iPad (6th generation)</string>
+				<string>iPad (6th generation)</string>
+				<string>iPad Air</string>
+				<string>iPad Air</string>
+				<string>iPad Air</string>
+				<string>iPad Air 2</string>
+				<string>iPad Air 2</string>
+				<string>iPad Pro (12.9-inch)</string>
+				<string>iPad Pro (12.9-inch)</string>
+				<string>iPad mini 2</string>
+				<string>iPad mini 2</string>
+				<string>iPad mini 2</string>
+				<string>iPad mini 3</string>
+				<string>iPad mini 3</string>
+				<string>iPad mini 3</string>
+				<string>iPad mini 4</string>
+				<string>iPad mini 4</string>
+			</array>
+		</dict>
+		<key>Apps/SQJZ-iPad Pro (9.7-inch)-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>6171074</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>6171074</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>12217070</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>12217070</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad7,4</string>
+				<string>iPad7,3</string>
+				<string>iPad7,2</string>
+				<string>iPad7,1</string>
+				<string>iPad6,4</string>
+				<string>iPad6,3</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad Pro (10.5-inch)</string>
+				<string>iPad Pro (10.5-inch)</string>
+				<string>iPad Pro (12.9-inch) (2nd generation)</string>
+				<string>iPad Pro (12.9-inch) (2nd generation)</string>
+				<string>iPad Pro (9.7-inch)</string>
+				<string>iPad Pro (9.7-inch)</string>
+			</array>
+		</dict>
+		<key>Apps/SQJZ-iPhone 5-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>6464837</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>6464837</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>11605176</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>11605176</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone5,2</string>
+				<string>iPhone5,1</string>
+				<string>iPhone5,3</string>
+				<string>iPhone5,4</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 5</string>
+				<string>iPhone 5</string>
+				<string>iPhone 5c</string>
+				<string>iPhone 5c</string>
+			</array>
+		</dict>
+		<key>Apps/SQJZ-iPhone 6s Plus-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>6297714</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>6297714</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>12345494</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>12345494</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone7,1</string>
+				<string>iPhone8,2</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 6 Plus</string>
+				<string>iPhone 6s Plus</string>
+			</array>
+		</dict>
+		<key>Apps/SQJZ-iPhone 7 Plus-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>6297732</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>6297732</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>12345630</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>12345630</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone9,4</string>
+				<string>iPhone9,2</string>
+				<string>iPhone10,5</string>
+				<string>iPhone10,2</string>
+				<string>iPhone10,3</string>
+				<string>iPhone10,6</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 7 Plus</string>
+				<string>iPhone 7 Plus</string>
+				<string>iPhone 8 Plus</string>
+				<string>iPhone 8 Plus</string>
+				<string>iPhone X</string>
+				<string>iPhone X</string>
+			</array>
+		</dict>
+		<key>Apps/SQJZ-iPhone 8-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>6231209</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>6231209</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>12279002</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>12279002</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone9,1</string>
+				<string>iPhone9,3</string>
+				<string>iPhone10,1</string>
+				<string>iPhone10,4</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 7</string>
+				<string>iPhone 7</string>
+				<string>iPhone 8</string>
+				<string>iPhone 8</string>
+			</array>
+		</dict>
+		<key>Apps/SQJZ-iPhone SE-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>6231220</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>6231220</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>12279064</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>12279064</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone6,2</string>
+				<string>iPhone6,1</string>
+				<string>iPhone7,2</string>
+				<string>iPhone8,1</string>
+				<string>iPhone8,4</string>
+				<string>iPod7,1</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 5s</string>
+				<string>iPhone 5s</string>
+				<string>iPhone 6</string>
+				<string>iPhone 6s</string>
+				<string>iPhone SE</string>
+				<string>iPod touch (6th generation)</string>
+			</array>
+		</dict>
+		<key>Apps/SQJZ-iPod touch-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>6464836</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>6464836</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>11605108</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>11605108</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone4,1</string>
+				<string>iPod5,1</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 4S</string>
+				<string>iPod touch</string>
+			</array>
+		</dict>
+		<key>Apps/SQJZ.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>10597084</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>10597084</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>19088233</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>19088233</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+		</dict>
+	</dict>
+</dict>
+</plist>
